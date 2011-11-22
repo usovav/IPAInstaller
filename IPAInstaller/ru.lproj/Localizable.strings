@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  IPAInstaller
+
+  Created by Антон Титков on 27.08.11.
+  Copyright (c) 2011 __MyCompanyName__. All rights reserved.
+*/
+"choose_action"="Выберите действие";
+"delete"="Удалить";
+"cancel"="Отмена";
+"install"="Установить";
+"version"="Версия";
+"acden"="Нет доступа.Вы не являетесь тестером.";
+"thisver"="Данная версия IPAInstaller доступна только тестерам.";
+"closeapp"="Закрыть";
+"done"="Готово";
+"upddata"="Обновляю данные...";
+"plzwait"="Пожалуйста подождите";
+"procc"="Обрабатываю...";
+"dmged"="Файл поврежден";
